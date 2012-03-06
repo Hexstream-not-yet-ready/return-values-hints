@@ -1,0 +1,9 @@
+Project's home: http://www.hexstreamsoft.com/projects/return-values-hints/
+
+
+Allows querying of return values hints for all standard operators,
+as well as registering and querying of such hints for user-defined operators.
+
+
+This library is in the Public Domain.
+See the UNLICENSE file for details.
