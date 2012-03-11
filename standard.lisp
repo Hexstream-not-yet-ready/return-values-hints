@@ -1,6 +1,6 @@
 (in-package #:return-values-hints)
 
-(define-return-values-hints
+(define-retval-hints
   (* (product))
   (+ (sum))
   (- (difference)) ; with one arg: (- (negation)) ; notable?
